@@ -1,0 +1,26 @@
+﻿  D3D11Renderer.cpp
+  D3D11StateSaver.cpp
+  dllmain.cpp
+C:\Users\mukke\Downloads\Phantom2\Phantom2\IDA.h(99,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\mukke\Downloads\Phantom2\Phantom2\IDA.h(100,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\mukke\Downloads\Phantom2\Phantom2\IDA.h(102,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\mukke\Downloads\Phantom2\Phantom2\IDA.h(103,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+  scan.cpp
+  Tools.cpp
+  utils.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 1375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(SpriteBatch.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(SpriteFont.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+DirectXTK.lib(BufferHelpers.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(BufferHelpers.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(CommonStates.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(VertexTypes.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+DirectXTK.lib(pch.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(pch.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: PDB "DirectXTK.pdb" wurde nicht mit "DirectXTK.lib(BinaryReader.obj)" oder an "C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\DirectXTK.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  Phantom.vcxproj -> C:\Users\mukke\Downloads\Phantom2\Phantom2\x64\Release\Phantom.dll
